@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Dec 21, 2021
- *      Author: quectel
+ *      Author: Mehmet Cihangir and Quectel
  */
 
 #include <stdio.h>
